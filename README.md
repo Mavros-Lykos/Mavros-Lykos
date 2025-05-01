@@ -36,8 +36,11 @@ Here are some ideas to get you started:
 
 <br/>  
 
+## My Skill Set 
 
-## My Skill Set  
+<br/>
+<div align="center">
+ 
 <table><tr><td valign="top"  align="center" width="33%">
 
 
@@ -130,5 +133,5 @@ Here are some ideas to get you started:
 </table>
 
 </td></tr></table>  
-
+</div>
 <br/>  
