@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### <div align="center">I'm Charaka Hashan, a full-time full-stack freelance developer 👨‍💻 working remotely since 2024 🚀</div>  
   
 
-- 🔭 I’m currently working on [Emotional Roller Coaster](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Emotional Roller Coaster](https://github.com/Mavros-Lykos/Emotional-Roller-Coaster-gamedevjs-2025)
   
 
 - 🌱 I’m currently learning React and Next.js  
