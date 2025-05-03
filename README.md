@@ -145,4 +145,16 @@ Here are some ideas to get you started:
 </br>
 </div>
 <!-- daily strake api -->
+</br>
+<!-- top languages api -->
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mavros-Lykos&layout=compact)
+
+<!-- top languages api-->
+
+<!-- Activity Graph API-->
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mavros-Lykos&theme=react-dark&hide_border=true)
+<!-- Activity Grapho API-->
+
+
 
