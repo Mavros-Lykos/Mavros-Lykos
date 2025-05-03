@@ -137,8 +137,8 @@ Here are some ideas to get you started:
 <br/>  
 
 <!-- daily strake api -->
-
+<div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mavros-Lykos&border_radius=7.7&card_width=700&card_height=250)](https://git.io/streak-stats)
-
+</div>
 <!-- daily strake api -->
 
