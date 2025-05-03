@@ -17,8 +17,15 @@ Here are some ideas to get you started:
 <div align="center">
 <img src="github-header-image.png" align="center" style="width: 100%" />
 </div>  
-  
+  <!-- -->
+  </br/>
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Mavros-Lykos.Mavros-Lykos)
+  </br/>
+  <!-- visiters count API -->
 
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20World&animation=fadeIn&height=100)
+
+  
 ### <div align="center">I'm Charaka Hashan, a part-time full-stack freelance developer 👨‍💻 working remotely since 2024 🚀</div>  
   
 
