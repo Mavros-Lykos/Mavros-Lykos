@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20Guys&animation=fadeIn&height=100)
+
+  
 <!--
 **Mavros-Lykos/Mavros-Lykos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,9 +28,6 @@ Here are some ideas to get you started:
   </br>
   <!-- visiters count API -->
 
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20Guys&animation=fadeIn&height=100)
-
-  
 ### <div align="center">I'm Charaka Hashan, a part-time full-stack freelance developer 👨‍💻 working remotely since 2024 🚀</div>  
   
 
