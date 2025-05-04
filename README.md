@@ -19,18 +19,13 @@ Here are some ideas to get you started:
 </div>  
   <!-- -->
   </br>
-  <div align="center">
-    
-  ![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=Mavros-Lykos.Mavros-Lykos&left_text=My%20Account%20Visitors&left_color=red&right_color=green)
-
-  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mavros-Lykos/Mavros-Lykos&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)
-
-    
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mavros-Lykos.Mavros-Lykos&"  />
 </div> 
   </br>
   <!-- visiters count API -->
 
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20World&animation=fadeIn&height=100)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20Guys&animation=fadeIn&height=100)
 
   
 ### <div align="center">I'm Charaka Hashan, a part-time full-stack freelance developer 👨‍💻 working remotely since 2024 🚀</div>  
