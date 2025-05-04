@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>  
   <!-- -->
   </br/>
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Mavros-Lykos.Mavros-Lykos)
+
   </br/>
   <!-- visiters count API -->
 
