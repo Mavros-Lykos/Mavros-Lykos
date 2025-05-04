@@ -18,9 +18,13 @@ Here are some ideas to get you started:
 <img src="github-header-image.png" align="center" style="width: 100%" />
 </div>  
   <!-- -->
-  </br/>
-
-  </br/>
+  </br>
+  <div align="center">
+    
+  ![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=Mavros-Lykos.Mavros-Lykos&left_text=My%20Account%20Visitors&left_color=red&right_color=green)
+    
+</div> 
+  </br>
   <!-- visiters count API -->
 
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20World&animation=fadeIn&height=100)
