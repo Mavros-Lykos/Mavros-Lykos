@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20Guys&animation=fadeIn&height=100)
-
-  
+   </br>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mavros-Lykos.Mavros-Lykos&"  />
+</div> 
+  </br>
 <!--
 **Mavros-Lykos/Mavros-Lykos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,15 +19,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  <!-- -->
+  
 <div align="center">
 <img src="github-header-image.png" align="center" style="width: 100%" />
 </div>  
-  <!-- -->
-  </br>
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mavros-Lykos.Mavros-Lykos&"  />
-</div> 
-  </br>
+ 
   <!-- visiters count API -->
 
 ### <div align="center">I'm Charaka Hashan, a part-time full-stack freelance developer 👨‍💻 working remotely since 2024 🚀</div>  
@@ -144,7 +143,11 @@ Here are some ideas to get you started:
 </td></tr></table>  
 </div>
 <br/>  
-
+<div align="center" style="width: 100%"> 
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20Guys&animation=fadeIn&height=100&width=900)
+  
+</div>
 <!-- daily strake api -->
 <div align="center"> 
 </br>
