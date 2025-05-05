@@ -152,7 +152,7 @@ Here are some ideas to get you started:
 <div align="center"> 
 </br>
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mavros-Lykos&border_radius=7.7&card_width=700&card_height=250)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mavros-Lykos&border_radius=7.8&card_width=700&card_height=250)](https://git.io/streak-stats)
 
 </br>
 </div>
