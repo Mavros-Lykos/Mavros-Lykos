@@ -1,12 +1,9 @@
 <!-- ## Hi there 👋 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06786E,50:5EE0BE,100:0786AD&text=Hi%20%20Guys%20!%20👋&fontSize=50&fontAlign=25&reversal=true&fontColor=025B96"  />
-</div> 
-<!-- ## Hi there 👋 -->
-
-<div align="center">
-<img src="github-header-image.png" align="center" style="width: 100%" />
-</div>  
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06786E,50:5EE0BE,100:0786AD&text=Hi%20%20Guys%20!%20👋&fontSize=50&fontAlign=25&reversal=true&fontColor=025B96" />
+</div><div align="center">
+  <img src="github-header-image.png" style="width: 100%;" />
+</div>
  <!-- Header Image -->
 
 <!-- Visitors badge -->
