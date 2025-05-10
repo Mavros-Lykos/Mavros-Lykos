@@ -32,10 +32,12 @@
   
 
 <br/>  
-
-## My Skill Set 
-
 <br/>
+<div align="center" style="width: 100%"> 
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00D4FF,50:090979,100:0000&text=My%20Skills&fontSize=50&fontAlign=25&reversal=true&fontColor=025B96)
+  
+</div>
 <div align="center">
  
 <table>
