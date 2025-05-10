@@ -10,11 +10,21 @@
  <!-- Header Image -->
 
 <!-- Visitors badge -->
+<!-- ## Hi there 👋 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06786E,50:5EE0BE,100:0786AD&text=Hi%20%20Guys%20!%20👋&fontSize=50&fontAlign=25&reversal=true&fontColor=025B96" />
+</div><div align="center">
+  <img src="github-header-image.png" style="width: 100%;" />
+</div>
+ <!-- Header Image -->
+
+<!-- Visitors badge -->
    </br>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mavros-Lykos.Mavros-Lykos&"  />
 </div> 
   </br>
+<!-- Visitors badge -->
 <!-- Visitors badge -->
 
 ### <div align="center">I'm Charaka Hashan, a part-time full-stack freelance developer 👨‍💻 working remotely since 2024 🚀</div>  
@@ -147,6 +157,8 @@
   <!-- ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20Guys&animation=fadeIn&height=100&width=900)
    -->
    ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20Guys&animation=fadeIn&height=100&width=900)
+  <!-- ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20Guys&animation=fadeIn&height=100&width=900) -->
+  ![Header](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00D4FF,50:090979,100:0000&text=My%20Streak&fontSize=50&fontAlign=25&reversal=true&fontColor=025B96)
   
 </div>
 <!-- daily strake api -->
@@ -168,6 +180,7 @@
 <!-- Activity Graph API-->
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mavros-Lykos&theme=react-dark&hide_border=true)
 <!-- Activity Grapho API-->
+ <!-- Header Image -->
  <!-- Header Image -->
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7A8B8&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+CHARAKA+HASHAN;_Welcome+to+my+GitHub+profile!)
