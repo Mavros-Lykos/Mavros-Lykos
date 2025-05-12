@@ -165,8 +165,9 @@
 
 <!-- top languages api-->
 
-<!-- Activity Graph API-->
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mavros-Lykos&theme=react-dark&hide_border=true)
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mavros-Lykos&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
 <!-- Activity Grapho API-->
  <!-- Header Image -->
  <!-- Header Image -->
