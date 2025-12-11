@@ -154,8 +154,16 @@
   
 </div>
 <!-- daily strake api -->
+<div align="center"> 
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mavros-Lykos&border_radius=7.8&card_width=700&card_height=250)](https://git.io/streak-stats)
+
+</div>
+
+<br>
 
 ## Connect with me  
+
 <div align="center">
 <a href="https://twitter.com/mavrosly" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -173,13 +181,14 @@
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
 </div>  
-<div align="center"> 
-</br>
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mavros-Lykos&border_radius=7.8&card_width=700&card_height=250)](https://git.io/streak-stats)
+<br>
+<br>
+<!-- Holopin API -->
 
-</br>
-</div>
+[![An image of @mavroslykos's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mavroslykos)](https://holopin.io/@mavroslykos)
+
+<!-- Holopin API -->
+
 <!-- daily strake api -->
 </br>
 <!-- top languages api -->
