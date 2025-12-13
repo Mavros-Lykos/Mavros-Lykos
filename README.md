@@ -16,6 +16,8 @@
    </br>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mavros-Lykos.Mavros-Lykos&"  />
+  <br>
+<img src="https://user-badge.committers.top/sri_lanka/Mavros-Lykos.svg" alt="" />
 </div> 
   </br>
 <!-- Visitors badge -->
