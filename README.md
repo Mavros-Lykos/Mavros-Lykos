@@ -18,8 +18,11 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mavros-Lykos.Mavros-Lykos&"  />
   <br>
 <img src="https://user-badge.committers.top/sri_lanka/Mavros-Lykos.svg" alt="" />
+  
+[![Why PHP](https://img.shields.io/badge/Why_PHP-in_2026-7A86E8?style=flat&labelColor=18181b)](https://whyphp.dev)
 </div> 
   </br>
+  
 <!-- Visitors badge -->
 
 ### <div align="center">I'm Charaka Hashan, a part-time full-stack freelance developer 👨‍💻 working remotely since 2024 🚀</div>  
@@ -36,7 +39,6 @@
 
 - ⚡ Fun fact: I use tabs over spaces  
   
-
 <br/>  
 <br/>
 <div align="center" style="width: 100%"> 
