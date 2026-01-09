@@ -47,110 +47,115 @@
   
 </div>
 <div align="center">
- 
-<table>
+<table align="center" width="100%">
 <tr>
-<!-- FRONTEND -->
-  <td valign="top" width="25%">
-    <div align="center"><h2>Frontend</h2></div>
-    <div align="center" style="margin-top:20px; margin-bottom:20px;">
-    <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-    <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next.js" height="50" /></a>
-    </div>
-    <div align="center" style="margin-top:20px; margin-bottom:20px;">
-    <a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vite.svg" alt="Vite" height="50" /></a>
-    <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-    </div>
-    <div align="center" style="margin-top:20px; margin-bottom:20px;">
-    <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-    <a href="https://threejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/threejs.svg" alt="Three.js" height="50" /></a>
-    </div>
-    <div align="center" style="margin-top:20px; margin-bottom:20px;">
-    <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-    </div>
-    <div align="center" style="margin-top:20px; margin-bottom:20px;">
-    <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
-    <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
-    </div>
-    <div align="center" style="margin-top:20px; margin-bottom:20px;">
-    <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>
-    <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>
-    </div>
-    <div align="center" style="margin-top:20px; margin-bottom:20px;">
-    <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>
-    <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>
-    </div>
-  </td>
-  <!-- BACKEND -->
-  <td valign="top" width="25%">
-    <div align="center"><h2>Backend</h2></div>
-    <div align="center" style="margin-top:20px; margin-bottom:20px;">
-    <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-    <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
-    </div>
-    <div align="center" style="margin-top:20px; margin-bottom:20px;">
-    <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/fastapi.svg" alt="FastAPI" height="50" /></a>
-    </div>
-    <div align="center" style="margin-top:20px; margin-bottom:20px;">
-    <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring Boot" height="50" /></a>
-    </div>
-    <div align="center" style="margin-top:20px; margin-bottom:20px;">
-    <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
-    <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
-    </div>
-    <div align="center" style="margin-top:20px; margin-bottom:20px;">
-    <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-    </div>
-  </td>
-  <!-- DATABASE -->
-  <td valign="top" width="25%">
-    <div align="center"><h2>Database</h2></div>
-    <div align="center" style="margin-top:20px; margin-bottom:20px;">
-    <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
-    <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
-    </div>
-    <div align="center" style="margin-top:20px; margin-bottom:20px;">
-    <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
-    <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>
-    </div>
-    <div align="center" style="margin-top:20px; margin-bottom:20px;">
-    <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>
-    </div>
-  </td>
-  <!-- DEVOPS & TESTING -->
-  <td valign="top" width="25%">
-    <div align="center"><h2>DevOps & Testing</h2></div>
-    <div align="center" style="margin-top:20px; margin-bottom:20px;">
-    <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-    <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>
-    </div>
-    <div align="center" style="margin-top:20px; margin-bottom:20px;">
-    <a href="https://github.com/features/actions" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/github-actions.svg" alt="GitHub Actions" height="50" /></a>
-    <a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vercel.svg" alt="Vercel" height="50" /></a>
-    </div>
-    <div align="center" style="margin-top:20px; margin-bottom:20px;">
-    <a href="https://www.netlify.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/netlify.png" alt="Netlify" height="50" /></a>
-    <a href="https://playwright.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/playwright.svg" alt="Playwright" height="50" /></a>
-    </div>
-    <div align="center" style="margin-top:20px; margin-bottom:20px;">
-    <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-    <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-    </div>
-    <div align="center" style="margin-top:20px; margin-bottom:20px;">
-    <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
-    <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>
-    </div>
-    <div align="center" style="margin-top:20px; margin-bottom:20px;">
-    <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
-    </div>
-  </td>
+
+<!-- ================= FRONTEND ================= -->
+<td valign="top" width="25%">
+<h2 align="center">Frontend</h2>
+
+<table align="center">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" /></td><td></td>
+</tr>
+<tr>
+<td></td><td align="center"><img src="https://skillicons.dev/icons?i=nextjs" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=vite" /></td><td></td>
+</tr>
+<tr>
+<td></td><td align="center"><img src="https://skillicons.dev/icons?i=js" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=ts" /></td><td></td>
+</tr>
+<tr>
+<td></td><td align="center"><img src="https://skillicons.dev/icons?i=threejs" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" /></td><td></td>
+</tr>
+<tr>
+<td></td><td align="center"><img src="https://skillicons.dev/icons?i=html" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /></td><td></td>
+</tr>
+<tr>
+<td></td><td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=mui" /></td><td></td>
+</tr>
+<tr>
+<td></td><td align="center"><img src="https://skillicons.dev/icons?i=sass" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=electron" /></td><td></td>
+</tr>
+<tr>
+<td></td><td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" height="48"/>
+</td>
 </tr>
 </table>
+</td>
 
+<!-- ================= BACKEND ================= -->
+<td valign="top" width="25%">
+<h2 align="center">Backend</h2>
+
+<table align="center">
+<tr><td align="center"><img src="https://skillicons.dev/icons?i=nodejs" /></td><td></td></tr>
+<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=express" /></td></tr>
+<tr><td align="center"><img src="https://skillicons.dev/icons?i=python" /></td><td></td></tr>
+<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=fastapi" /></td></tr>
+<tr><td align="center"><img src="https://skillicons.dev/icons?i=java" /></td><td></td></tr>
+<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=spring" /></td></tr>
+<tr><td align="center"><img src="https://skillicons.dev/icons?i=php" /></td><td></td></tr>
+<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=c" /></td></tr>
+<tr><td align="center"><img src="https://skillicons.dev/icons?i=cpp" /></td><td></td></tr>
+<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=ts" /></td></tr>
+</table>
+</td>
+
+<!-- ================= DATABASE ================= -->
+<td valign="top" width="25%">
+<h2 align="center">Database</h2>
+
+<table align="center">
+<tr><td align="center"><img src="https://skillicons.dev/icons?i=postgres" /></td><td></td></tr>
+<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=mongodb" /></td></tr>
+<tr><td align="center"><img src="https://skillicons.dev/icons?i=mysql" /></td><td></td></tr>
+<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=redis" /></td></tr>
+<tr><td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48"/>
+</td><td></td></tr>
+</table>
+</td>
+
+<!-- ================= DEVOPS ================= -->
+<td valign="top" width="25%">
+<h2 align="center">DevOps & Testing</h2>
+
+<table align="center">
+<tr><td align="center"><img src="https://skillicons.dev/icons?i=docker" /></td><td></td></tr>
+<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" /></td></tr>
+<tr><td align="center"><img src="https://skillicons.dev/icons?i=githubactions" /></td><td></td></tr>
+<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=vercel" /></td></tr>
+<tr><td align="center"><img src="https://skillicons.dev/icons?i=netlify" /></td><td></td></tr>
+<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=playwright" /></td></tr>
+<tr><td align="center"><img src="https://skillicons.dev/icons?i=linux" /></td><td></td></tr>
+<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=git" /></td></tr>
+<tr><td align="center"><img src="https://skillicons.dev/icons?i=aws" /></td><td></td></tr>
+<tr><td></td><td align="center"><img src="https://skillicons.dev/icons?i=gcp" /></td></tr>
+<tr><td align="center"><img src="https://skillicons.dev/icons?i=bash" /></td><td></td></tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
 <br/>
 <div align="center" style="margin-top:20px; margin-bottom:20px;">
  
