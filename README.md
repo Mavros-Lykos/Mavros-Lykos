@@ -44,7 +44,7 @@
 
 <div align="center" style="width: 100%;">
 
-  ![Header](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00D4FF,50:090979,100:0000&text=My%20Skills&fontSize=50&fontAlign=25&reversal=true&fontColor=025B96)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00D4FF,50:090979,100:0000&text=My%20Skills&fontSize=45&fontAlign=25&reversal=true&fontColor=025B96)
   
 </div>
 
@@ -171,7 +171,7 @@
 
 <div align="center" style="width: 100%;">
 
-  ![Header](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00D4FF,50:090979,100:0000&text=My%20Streak&fontSize=50&fontAlign=25&reversal=true&fontColor=025B96)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00D4FF,50:090979,100:0000&text=My%20Streak&fontSize=45&fontAlign=25&reversal=true&fontColor=025B96)
 
 </div>
 
@@ -220,19 +220,27 @@
 <br/>
 <br/>
 
-<!-- ========================= TOP LANGUAGES ========================= -->
-
+ <!-- ========================= TOP LANGUAGES ========================= -->
+<!--  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mavros-Lykos&layout=compact)
 
 <br/>
-
+-->
 <!-- ========================= GITHUB STATS ========================= -->
-
+<!--  
 ## Github Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mavros-Lykos&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>
-
+<!-- ========================= TROPHIES ========================= -->
+<!--  
+<div align="center">
+  <h2>🏆 GitHub Profile Trophy</h2>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Mavros-Lykos&theme=gruvbox&margin-w=15&margin-h=15&column=7" alt="GitHub Profile Trophy" />
+  </a>
+</div>
+ -->
 <br/>
 
 <!-- ========================= TYPING SVG ========================= -->
