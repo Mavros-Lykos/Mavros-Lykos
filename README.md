@@ -1,59 +1,63 @@
-<!-- ## Hi there 👋 -->
+<!-- ========================= HEADER ========================= -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06786E,50:5EE0BE,100:0786AD&text=Hi%20%20Guys%20!%20👋&fontSize=50&fontAlign=25&reversal=true&fontColor=025B96" style="width: 100%;" />
 </div>
 
- <!-- Header Image -->
- 
+<br/>
+
+<!-- ========================= HEADER IMAGE ========================= -->
+
 <div align="center">
   <img src="github-header-image.png" style="width: 100%;" />
 </div>
 
- <!-- Header Image -->
-
-<!-- Visitors badge -->
-   </br>
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mavros-Lykos.Mavros-Lykos&"  />
-  <br>
-<img src="https://user-badge.committers.top/sri_lanka/Mavros-Lykos.svg" alt="" />
-  
-[![Why PHP](https://img.shields.io/badge/Why_PHP-in_2026-7A86E8?style=flat&labelColor=18181b)](https://whyphp.dev)
-</div> 
-  </br>
-  
-<!-- Visitors badge -->
-
-### <div align="center">I'm Charaka Hashan, a part-time full-stack freelance developer 👨‍💻 working remotely since 2024 🚀</div>  
-  
-
-- 🔭 I’m currently working on [MyJourney-PersonalDiaryApplication]<!--(https://github.com/Mavros-Lykos/Emotional-Roller-Coaster-gamedevjs-2025)-->
-  
-
-- 🌱 I’m currently learning React and Next.js  
-  
-
-- ❓ Ask me about anything related to LAMP stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-<br/>  
 <br/>
-<div align="center" style="width: 100%"> 
-  
+
+<!-- ========================= VISITORS BADGE ========================= -->
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mavros-Lykos.Mavros-Lykos" />
+  <br/>
+  <img src="https://user-badge.committers.top/sri_lanka/Mavros-Lykos.svg" alt="Committers Badge" />
+  <br/>
+  <a href="https://whyphp.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Why_PHP-in_2026-7A86E8?style=flat&labelColor=18181b" alt="Why PHP Badge" />
+  </a>
+</div>
+
+<br/>
+
+<!-- ========================= ABOUT ME ========================= -->
+
+### <div align="center">I'm Charaka Hashan, a part-time full-stack freelance developer 👨‍💻 working remotely since 2024 🚀</div>
+
+- 🔭 I’m currently working on [MyJourney-PersonalDiaryApplication](https://github.com/Mavros-Lykos/MyJourney-PersonalDiaryApplication)  
+- 🌱 I’m currently learning React and Next.js  
+- ❓ Ask me about anything related to LAMP stack and related technologies  
+- ⚡ Fun fact: I use tabs over spaces  
+
+<br/>
+<br/>
+
+<!-- ========================= SKILLS SECTION ========================= -->
+
+<div align="center" style="width: 100%;">
+
   ![Header](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00D4FF,50:090979,100:0000&text=My%20Skills&fontSize=50&fontAlign=25&reversal=true&fontColor=025B96)
   
 </div>
+
+<br/>
+
 <div align="center">
 <table align="center" width="100%">
 <tr>
 
-<!-- ================= FRONTEND ================= -->
+<!-- ========================= FRONTEND ========================= -->
+
 <td valign="top" width="25%">
 <h2 align="center">Frontend</h2>
-
 <table align="center">
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=react" /></td><td></td>
@@ -102,7 +106,8 @@
 </table>
 </td>
 
-<!-- ================= BACKEND ================= -->
+<!-- ========================= BACKEND ========================= -->
+
 <td valign="top" width="25%">
 <h2 align="center">Backend</h2>
 
@@ -120,7 +125,8 @@
 </table>
 </td>
 
-<!-- ================= DATABASE ================= -->
+<!-- ========================= DATABASE ========================= -->
+
 <td valign="top" width="25%">
 <h2 align="center">Database</h2>
 
@@ -135,7 +141,8 @@
 </table>
 </td>
 
-<!-- ================= DEVOPS ================= -->
+<!-- ========================= DEVOPS ========================= -->
+
 <td valign="top" width="25%">
 <h2 align="center">DevOps & Testing</h2>
 
@@ -156,31 +163,35 @@
 </tr>
 </table>
 </div>
+
 <br/>
-<div align="center" style="margin-top:20px; margin-bottom:20px;">
- 
+<br/>
 
- 
-</div>
-<br/>  
-<div align="center" style="width: 100%"> 
-  
-  <!-- ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20Guys&animation=fadeIn&height=100&width=900) -->
+<!-- ========================= GITHUB STREAK ========================= -->
+
+<div align="center" style="width: 100%;">
+
   ![Header](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00D4FF,50:090979,100:0000&text=My%20Streak&fontSize=50&fontAlign=25&reversal=true&fontColor=025B96)
-  
-</div>
-<!-- daily strake api -->
-<div align="center"> 
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mavros-Lykos&border_radius=7.8&card_width=700&card_height=250)](https://git.io/streak-stats)
 
 </div>
 
-<br>
+<br/>
 
-<!-- ## Connect with me  -->
- <img src="https://capsule-render.vercel.app/api?type=speech&height=80&color=gradient&text=Connect%20with%20me&animation=twinkling&fontSize=50&section=header&reversal=false" style="width: 100%;" />
- 
+<div align="center">
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mavros-Lykos&border_radius=7.8&card_width=700&card_height=250)](https://git.io/streak-stats)
+
+</div>
+
+<br/>
+<br/>
+
+<!-- ========================= CONNECT WITH ME ========================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=speech&height=80&color=gradient&text=Connect%20with%20me&animation=twinkling&fontSize=50&section=header&reversal=false" style="width: 100%;" />
+
+<br/>
+
 <div align="center">
 <a href="https://twitter.com/mavrosly" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -188,40 +199,42 @@
 <a href="https://dev.to/mavroslykos" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/haraka-hashan-958a2b272" target="_blank">
+<a href="https://linkedin.com/in/charaka-hashan-958a2b272" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/wolf-at-alone" target="_blank">
+<a href="https://github.com/Mavros-Lykos" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://codepen.com/@MavrosLykos" target="_blank">
+<a href="https://codepen.io/MavrosLykos" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
-</div>  
-<br>
-<br>
-<br>
+</div>
 
-<!-- Holopin API -->
+<br/>
+<br/>
+
+<!-- ========================= HOLOPIN BADGES ========================= -->
 
 [![An image of @mavroslykos's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mavroslykos)](https://holopin.io/@mavroslykos)
 
-<!-- Holopin API -->
+<br/>
+<br/>
 
-<!-- daily strake api -->
-</br>
-</br>
-<!-- top languages api -->
+<!-- ========================= TOP LANGUAGES ========================= -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mavros-Lykos&layout=compact)
 
-<!-- top languages api-->
+<br/>
+
+<!-- ========================= GITHUB STATS ========================= -->
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mavros-Lykos&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mavros-Lykos&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>
 
-<!-- Activity Grapho API-->
- <!-- Header Image -->
- <!-- Header Image -->
+<br/>
+
+<!-- ========================= TYPING SVG ========================= -->
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7A8B8&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+CHARAKA+HASHAN;_Welcome+to+my+GitHub+profile!)
