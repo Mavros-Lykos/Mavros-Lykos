@@ -178,8 +178,9 @@
 
 <br>
 
-## Connect with me  
-
+<!-- ## Connect with me  -->
+ <img src="https://capsule-render.vercel.app/api?type=speech&height=80&color=gradient&text=Connect%20with%20me&animation=twinkling&fontSize=50&section=header&reversal=false" style="width: 100%;" />
+ 
 <div align="center">
 <a href="https://twitter.com/mavrosly" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
