@@ -243,8 +243,18 @@
  -->
 <br/>
 
-<a href="https://app.daily.dev/mavros_lykos"><img src="./devcard.png" width="100%" alt="Charaka Hashan's Dev Card"/></a>
+<!-- ========================= DAILY.DEV DEVCARD ========================= -->
+<!-- This DevCard is automatically updated daily via GitHub Actions -->
 
+
+<div align="center">
+  <a href="https://app.daily.dev/mavros_lykos">
+    <img src="./devcard.png" width="652" alt="Charaka Hashan's Dev Card"/>
+  </a>
+</div>
+
+<br/>
+<br/>
 
 <!-- ========================= TYPING SVG ========================= -->
 
