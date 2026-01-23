@@ -1,0 +1,27 @@
+name: DevCard
+
+# This workflow automatically updates your daily.dev DevCard daily
+# It runs every day at midnight (UTC) or can be triggered manually
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    # Runs every day at 00:00 UTC
+    - cron: "1 0 * * *"
+
+jobs:
+  devcard:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: devcard
+        uses: dailydotdev/action-devcard@3.0.0
+        with:
+          # Your daily.dev user ID (extracted from your DevCard URL)
+          devcard_id: ${{ secrets.USER_ID }}
+          # Specify wide card type for horizontal layout
+          devcard_width: wide
+          commit_message: "chore:update ${filename}"
