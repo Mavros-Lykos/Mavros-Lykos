@@ -4,8 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06786E,50:5EE0BE,100:0786AD&text=Hi%20%20Guys%20!%20👋&fontSize=50&fontAlign=25&reversal=true&fontColor=025B96" style="width: 100%;" />
 </div>
 
-<br/>
-
 <!-- ========================= HEADER IMAGE ========================= -->
 
 <div align="center">
@@ -17,12 +15,12 @@
 <!-- ========================= VISITORS BADGE ========================= -->
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mavros-Lykos.Mavros-Lykos" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mavros-Lykos.Mavros-Lykos" style="transform: scale(1.3); margin: 8px 0;" />
   <br/>
-  <img src="https://user-badge.committers.top/sri_lanka/Mavros-Lykos.svg" alt="Committers Badge" />
+  <img src="https://user-badge.committers.top/sri_lanka/Mavros-Lykos.svg" alt="Committers Badge" style="transform: scale(1.3); margin: 8px 0;" />
   <br/>
   <a href="https://whyphp.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Why_PHP-in_2026-7A86E8?style=flat&labelColor=18181b" alt="Why PHP Badge" />
+    <img src="https://img.shields.io/badge/Why_PHP-in_2026-7A86E8?style=flat&labelColor=18181b" alt="Why PHP Badge" style="transform: scale(1.3); margin: 8px 0;" />
   </a>
 </div>
 
