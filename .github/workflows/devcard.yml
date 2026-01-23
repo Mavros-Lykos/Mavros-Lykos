@@ -17,9 +17,18 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: devcard
-        uses: dailydotdev/action-devcard@3.0.0
-        with:
-          # Your daily.dev user ID (extracted from your DevCard URL)
-          user_id: ${{ secrets.USER_ID }}
-          commit_message: "chore: update devcard"
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Download wide DevCard
+        run: |
+          # Download the wide/horizontal version of the DevCard
+          curl -o devcard.png "https://api.daily.dev/devcards/v2/${{ secrets.USER_ID }}.png?type=wide&r=$(date +%s)"
+          
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add devcard.png
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update devcard"
+          git push
