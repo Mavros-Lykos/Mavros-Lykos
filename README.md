@@ -30,12 +30,28 @@
 
 <!-- ========================= ABOUT ME ========================= -->
 
-### <div align="center">I'm Charaka Hashan, a part-time full-stack freelance developer 👨‍💻 working remotely since 2024 🚀</div>
+### <div align="center" style="font-size: 1.3em;">I'm Charaka Hashan, a part-time full-stack freelance developer 👨‍💻 working remotely since 2024 🚀</div>
 
-- 🔭 I’m currently working on [MyJourney-PersonalDiaryApplication](https://github.com/Mavros-Lykos/MyJourney-PersonalDiaryApplication)  
-- 🌱 I’m currently learning React and Next.js  
+<div style="font-size: 1.1em;">
+
+- 🔭 I'm currently working on [MyJourney-PersonalDiaryApplication](https://github.com/Mavros-Lykos/MyJourney-PersonalDiaryApplication)  
+- 🌱 I'm currently learning React and Next.js  
 - ❓ Ask me about anything related to LAMP stack and related technologies  
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces
+
+</div>
+
+<br/>
+<br/>
+<!-- ========================= DAILY.DEV DEVCARD ========================= -->
+<!-- This DevCard is automatically updated daily via GitHub Actions -->
+
+
+<div align="center">
+  <a href="https://app.daily.dev/mavros_lykos">
+    <img src="./devcard.png" width="652" alt="Charaka Hashan's Dev Card"/>
+  </a>
+</div>
 
 <br/>
 <br/>
@@ -243,18 +259,6 @@
  -->
 <br/>
 
-<!-- ========================= DAILY.DEV DEVCARD ========================= -->
-<!-- This DevCard is automatically updated daily via GitHub Actions -->
-
-
-<div align="center">
-  <a href="https://app.daily.dev/mavros_lykos">
-    <img src="./devcard.png" width="652" alt="Charaka Hashan's Dev Card"/>
-  </a>
-</div>
-
-<br/>
-<br/>
 
 <!-- ========================= TYPING SVG ========================= -->
 
