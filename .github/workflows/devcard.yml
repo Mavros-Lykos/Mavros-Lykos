@@ -21,7 +21,5 @@ jobs:
         uses: dailydotdev/action-devcard@3.0.0
         with:
           # Your daily.dev user ID (extracted from your DevCard URL)
-          devcard_id: ${{ secrets.USER_ID }}
-          # Specify wide card type for horizontal layout
-          devcard_width: wide
-          commit_message: "chore:update ${filename}"
+          user_id: ${{ secrets.USER_ID }}
+          commit_message: "chore: update devcard"
