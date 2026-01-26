@@ -257,7 +257,6 @@
  -->
 <br/>
 
-
 <!-- ========================= TYPING SVG ========================= -->
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7A8B8&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+CHARAKA+HASHAN;_Welcome+to+my+GitHub+profile!)
