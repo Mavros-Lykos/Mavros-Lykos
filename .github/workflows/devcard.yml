@@ -4,9 +4,6 @@ name: DevCard
 # It runs every day at midnight (UTC) or can be triggered manually
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
   schedule:
     # Runs every day at 00:00 UTC
     - cron: "1 0 * * *"
@@ -23,7 +20,7 @@ jobs:
       - name: Download wide DevCard
         run: |
           # Download the wide/horizontal version of the DevCard
-          curl -o devcard.png "https://api.daily.dev/devcards/v2/${{ secrets.USER_ID }}.png?type=wide&r=$(date +%s)"
+          curl -fsSL -o devcard.png "https://api.daily.dev/devcards/v2/${{ secrets.DAILY_DEV_USER_ID }}.png?type=wide&r=4px&cache=${{ github.run_id }}"
           
       - name: Commit and push changes
         run: |
