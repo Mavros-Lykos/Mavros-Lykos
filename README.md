@@ -47,7 +47,7 @@
 
 <div align="center">
   <a href="https://app.daily.dev/mavros_lykos">
-    <img src="./devcard.png" width="740" alt="Charaka Hashan's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/v2/rP15vFIdEPNpDSYMOi2AR.png?type=wide&r=4px" width="740" alt="Charaka Hashan's Dev Card"/>
   </a>
 </div>
 
