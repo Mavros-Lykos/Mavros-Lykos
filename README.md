@@ -15,12 +15,12 @@
 <!-- ========================= VISITORS BADGE ========================= -->
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mavros-Lykos.Mavros-Lykos" style="transform: scale(1.3); margin: 8px 0;" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mavros-Lykos.Mavros-Lykos" width="110"  style="transform: scale(5); margin: 8px 0; " />
   <br/>
-  <img src="https://user-badge.committers.top/sri_lanka/Mavros-Lykos.svg" alt="Committers Badge" style="transform: scale(1.3); margin: 8px 0;" />
+  <img src="https://user-badge.committers.top/sri_lanka/Mavros-Lykos.svg" alt="Committers Badge" width="400"  style="transform: scale(1.3); margin: 8px 0;" />
   <br/>
   <a href="https://whyphp.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Why_PHP-in_2026-7A86E8?style=flat&labelColor=18181b" alt="Why PHP Badge" style="transform: scale(1.3); margin: 8px 0;" />
+    <img src="https://img.shields.io/badge/Why_PHP-in_2026-7A86E8?style=flat&labelColor=18181b" alt="Why PHP Badge" width="120" style="transform: scale(1.3); margin: 8px 0;" />
   </a>
 </div>
 
